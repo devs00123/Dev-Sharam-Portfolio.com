@@ -635,7 +635,7 @@ section {
     }
 
     .project-card {
-        min-width: 280px;
+        min-width: 20px;
         flex: 0 0 80%;
         scroll-snap-align: start;
     }
@@ -855,4 +855,5 @@ section {
         font-size: 0.9rem;
     }
 }
+
 
